@@ -1,0 +1,46 @@
+{
+  "chartConfig": {
+    "legendData": [
+      { "name": "收盘" },
+      { "name": "开盘" },
+      { "name": "高峰" },
+      { "name": "低峰" },
+      { "name": "交易量" },
+      { "name": "涨跌幅" }
+    ]
+  },
+  "columns": [
+    {
+      "title": "日期",
+      "key": "日期",
+      "sortable": true
+    },
+    {
+      "title": "收盘",
+      "key": "收盘",
+      "sortable": true
+    },
+    {
+      "title": "开盘",
+      "key": "开盘"
+    },
+    {
+      "title": "高峰",
+      "key": "高峰"
+    },
+    {
+      "title": "低峰",
+      "key": "低峰"
+    },
+    {
+      "title": "交易量",
+      "key": "交易量",
+      "sortable": true
+    },
+    {
+      "title": "涨跌幅",
+      "key": "涨跌幅",
+      "sortable": true
+    }
+  ]
+}

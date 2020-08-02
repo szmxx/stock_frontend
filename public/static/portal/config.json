@@ -1,0 +1,35 @@
+{
+  "module": "portal",
+  "list": [
+    {
+      "name": "股票平台",
+      "color": "#ff0000",
+      "link": "/home"
+    },
+    {
+      "name": "板块涨停历史榜",
+      "color": "#ffff00",
+      "link": "/boardhistory"
+    },
+    {
+      "name": "板块列表",
+      "color": "#00ff00",
+      "link": "/boardlist"
+    },
+    {
+      "name": "指数列表",
+      "color": "#0000ff",
+      "link": "/exponentlist"
+    },
+    {
+      "name": "奶茶系统",
+      "color": "#ff00ff",
+      "link": "http://127.0.0.1:5500/dist/index.html"
+    },
+    {
+      "name": "实时面板",
+      "color": "#ff00ff",
+      "link": "/realtimeband"
+    }
+  ]
+}
